@@ -1,0 +1,36 @@
+*{
+ 
+  font-family: sans-serif;
+}
+
+.main{
+  background-color: orange;
+  
+}
+
+.main .navbar{
+  width:1240px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.navbar h1{
+  color: white;
+}
+
+.getUser{
+  background-color: rgb(19, 219, 19);
+  color:white;
+  border:none;
+  padding:12px;
+  font-size: medium;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.getUser:hover{
+  opacity: .8;
+}
+

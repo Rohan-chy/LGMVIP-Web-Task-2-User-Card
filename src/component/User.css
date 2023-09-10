@@ -1,0 +1,21 @@
+.mainContainer{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 40px;;
+}
+
+.container{
+    border:1px solid gray;
+    padding:5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.name{
+    display:flex;
+    gap:5px;
+}
+
